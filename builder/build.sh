@@ -14,7 +14,7 @@ BUILDER_DIR=~/builder
 
 # source ISO info
 SOURCE_ISO_NAME="ubuntu-source-iso"
-SOURCE_ISO_URL=https://old-releases.ubuntu.com/releases/jammy/ubuntu-22.04.2-desktop-amd64.iso
+SOURCE_ISO_URL=https://old-releases.ubuntu.com/releases/jammy/ubuntu-22.04.4-desktop-amd64.iso
 SOURCE_ISO_SHASUM="b98dac940a82b110e6265ca78d1320f1f7103861e922aa1a54e4202686e9bbd3"
 SOURCE_ISO_FILE=$CACHE_DIR/$(basename $SOURCE_ISO_URL)
 
